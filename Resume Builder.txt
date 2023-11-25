@@ -1,0 +1,2 @@
+Front End Angular 
+Back End  Node Express, Mongo DB
